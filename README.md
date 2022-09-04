@@ -6,4 +6,4 @@ im a teen whos interested in html, css, node.js/discord.js, and lua!
 
 ## projects
 
-[nvralone](https://nvralone.github.io/site)
+[nvralone](https://github.com/nvralone)
