@@ -6,4 +6,5 @@ im a random nerd whos interested in html, css, node.js/discord.js, and lua (game
 
 ## projects
 [my website](https://pvrz.ml) ![](https://img.shields.io/badge/pvrz.ml-cloudflare-orange)
+
 [nvralone](https://github.com/nvralone)
