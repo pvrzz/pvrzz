@@ -10,6 +10,5 @@ im a random nerd whos interested in html, css, node.js/discord.js, python, and l
 
 #### [nvralone](https://na.pvrz.ml/) ([project github](https://github.com/nvralone))
 
-#### [Open Source Twitter Community](https://twitter.com/i/communities/1594480614899597312)
 ## holopin
 [![@pvrz's Holopin board](https://holopin.me/pvrz)](https://holopin.io/@pvrz)
