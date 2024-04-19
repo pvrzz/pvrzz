@@ -6,7 +6,7 @@ im a random nerd whos interested in html, css, node.js/discord.js, python, and l
 
 ## projects
 
-#### [my website](https://pvrz.lol) ![https://pvrz.pages.dev/](https://img.shields.io/badge/pvrz.lol-cloudflare-orange)
+#### [my website](https://pvrz.lol) ![https://pvrz.pages.dev/](https://img.shields.io/badge/pvrz.lol-cloudflare-orange) [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/15dxe.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 
 #### [nvralone (basic html)](https://na.pvrz.ml/) [[project github](https://github.com/nvralone)]
