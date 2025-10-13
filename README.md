@@ -10,6 +10,6 @@ i'm currently an it student who is interested in html, css, js (web, node.js/dis
 
 #### [repositories](https://github.com/pvrzz?tab=repositories)
 
-#### [goldenage](https://github.com/goldenagenetwork)
+#### [Golden Age](https://github.com/goldenagenetwork)
 ## holopin
 [![@pvrz's Holopin board](https://holopin.me/pvrz)](https://holopin.io/@pvrz)
