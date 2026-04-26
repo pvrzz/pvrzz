@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=pvrzz)
 
 hi! i'm christian.
-i'm currently an it student who is interested in html, css, js (web, node.js/discord.js), python, and lua.
+i'm an it grad & cybersec student who is interested in html, css, js (web, node.js/discord.js), python, and lua.
 
 ## projects
 
