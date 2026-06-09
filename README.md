@@ -10,6 +10,5 @@ i'm an it grad & cybersec student who is interested in html, css, js (web, node.
 
 #### [repositories](https://github.com/pvrzz?tab=repositories)
 
-#### [Golden Age](https://github.com/goldenagenetwork)
 ## holopin
 [![@pvrz's Holopin board](https://holopin.me/pvrz)](https://holopin.io/@pvrz)
