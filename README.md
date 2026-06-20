@@ -16,7 +16,7 @@
 
 ## ✦ about
 
-hi! i'm chris, an it grad (aas) & a current cybersecurity student (bs).
+hi! i'm chris, an it info/systems grad (aas) & a current cybersecurity student (bs).
 i like creating things! small web projects, discord bots, & browser extensions. i run a homelab to learn how everything actually fits together as well!
 
 ---
