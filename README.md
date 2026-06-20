@@ -16,8 +16,8 @@
 
 ## ✦ about
 
-
-i like building things..  small web projects, discord bots, browser extensions; and i run a homelab to learn how everything actually fits together. currently going deep on security.
+hi! i'm chris, an it grad (aas) & a current cybersecurity student (bs).
+i like creating things! small web projects, discord bots, & browser extensions. i run a homelab to learn how everything actually fits together as well!
 
 ---
 
@@ -25,22 +25,14 @@ i like building things..  small web projects, discord bots, browser extensions; 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,lua,html,css,nodejs,react,docker,linux,ubuntu,nginx,cloudflare,cisco,git,github,bash,vscode&theme=dark&perline=9" alt="stack" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,java,python,js,lua,html,css,nodejs,react,docker,nginx,cloudflare,git,github,bash,vscode&theme=dark&perline=10" alt="stack" />
 
 <br/><br/>
-
-**homelab & networking**
-&nbsp;
-
-![Portainer](https://img.shields.io/badge/Portainer-191724?style=flat-square&logo=portainer&logoColor=13BEF9)
-![Tailscale](https://img.shields.io/badge/Tailscale-191724?style=flat-square&logo=tailscale&logoColor=e0def4)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-191724?style=flat-square&logo=nextcloud&logoColor=0082c9)
-![Jellyfin](https://img.shields.io/badge/Jellyfin-191724?style=flat-square&logo=jellyfin&logoColor=00A4DC)
-![Gitea](https://img.shields.io/badge/Gitea-191724?style=flat-square&logo=gitea&logoColor=609926)
-![SearXNG](https://img.shields.io/badge/SearXNG-191724?style=flat-square&logo=searxng&logoColor=3050ff)
-![OnlyOffice](https://img.shields.io/badge/OnlyOffice-191724?style=flat-square&logo=onlyoffice&logoColor=ff6f3d)
-![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-191724?style=flat-square&logo=uptimekuma&logoColor=5cdd8b)
-![Wireshark](https://img.shields.io/badge/Wireshark-191724?style=flat-square&logo=wireshark&logoColor=1679A7)
+[![Portainer](https://img.shields.io/badge/Portainer-191724?style=flat-square&logo=portainer&logoColor=13BEF9)](https://www.portainer.io)
+[![Tailscale](https://img.shields.io/badge/Tailscale-191724?style=flat-square&logo=tailscale&logoColor=e0def4)](https://tailscale.com)
+[![Gitea](https://img.shields.io/badge/Gitea-191724?style=flat-square&logo=gitea&logoColor=609926)](https://git.pvrz.lol/)
+[![SearXNG](https://img.shields.io/badge/SearXNG-191724?style=flat-square&logo=searxng&logoColor=3050ff)](https://searxng.pvrz.lol)
+[![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-191724?style=flat-square&logo=uptimekuma&logoColor=5cdd8b)](https://status.pvrz.lol/)
 
 <br/>
 
