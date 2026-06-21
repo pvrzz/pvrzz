@@ -83,9 +83,7 @@ everything else i'm tinkering with.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=pvrzz&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=eb6f92&icon_color=c4a7e7&text_color=e0def4&bg_color=191724&border_color=403d52&border_radius=10" alt="stats" />
 &nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pvrzz&hide_border=false&background=191724&border=403d52&stroke=403d52&ring=eb6f92&fire=f6c177&currStreakNum=e0def4&sideNums=e0def4&currStreakLabel=c4a7e7&sideLabels=e0def4&dates=908caa&borderRadius=10" alt="streak" />
 
-<br/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvrzz&layout=compact&langs_count=8&hide_border=false&title_color=eb6f92&text_color=e0def4&bg_color=191724&border_color=403d52&border_radius=10" alt="top langs" />
 
