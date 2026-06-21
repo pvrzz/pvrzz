@@ -57,7 +57,7 @@ my corner of the internet — personal site, served over cloudflare.
 <td width="50%" valign="top">
 
 <!-- swap this link for the exact Portage repo url -->
-### [portage →](https://github.com/pvrzz?tab=repositories)
+### [portage →](https://portage.pvrz.lol)
 cross-browser data migration extension — manifest v3, aes-gcm encryption.
 
 ![JavaScript](https://img.shields.io/badge/js-191724?style=flat-square&logo=javascript&logoColor=f7df1e)
