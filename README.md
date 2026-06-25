@@ -76,22 +76,6 @@ everything else i'm tinkering with.
 
 ---
 
-## ✦ stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pvrzz&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=eb6f92&icon_color=c4a7e7&text_color=e0def4&bg_color=191724&border_color=403d52&border_radius=10" alt="stats" />
-&nbsp;
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvrzz&layout=compact&langs_count=8&hide_border=false&title_color=eb6f92&text_color=e0def4&bg_color=191724&border_color=403d52&border_radius=10" alt="top langs" />
-
-<br/><br/>
-
-</div>
-
----
-
 ## ✦ holopin
 
 <div align="center">
