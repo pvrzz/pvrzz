@@ -8,7 +8,6 @@
 &nbsp;
 [![website](https://img.shields.io/badge/pvrz.lol-191724?style=for-the-badge&logo=cloudflare&logoColor=eb6f92)](https://pvrz.lol)
 &nbsp;
-[![uptime](https://img.shields.io/badge/STATUS-up-9ccfd8?style=for-the-badge&logo=statuspage&logoColor=9ccfd8&labelColor=191724)](https://status.pvrz.lol/)
 
 </div>
 
